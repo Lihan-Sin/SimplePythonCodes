@@ -6,11 +6,14 @@ This repository is a collection of small, simple, and fun Python programs — pe
 ---
 
 ## 📂 Contents
-- **Spammer Bot (Safe Version)** – Simulates typing text multiple times  
+- **Limited Spam** – A script for limited time spam
+- **Unlimited Spam** – A script for unlimited time spam
 - **Guess the Number** – A simple number guessing game  
-- **Dice Roller** – Rolls a virtual dice  
+- **Guess the Word** – A simple word guessing game  
 - **Rock, Paper, Scissors** – Play against the computer  
 - **Mini Calculator** – Basic math operations  
+- **Tic Tac Toe** – A Tic Tac Toe game to play with friends
+- **Youtube Video Donloader** – Script for youtube video download in high quality    
 - *(More coming soon...)*
 
 ---
