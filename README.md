@@ -14,6 +14,8 @@ This repository is a collection of small, simple, and fun Python programs — pe
 - **Mini Calculator** – Basic math operations  
 - **Tic Tac Toe** – A Tic Tac Toe game to play with friends
 - **Youtube Video Donloader** – Script for youtube video download in high quality    
+- **Whole Calendar** – Script for printing whole calendar    
+- **QR Code Generator** – Script to generate QR Code    
 - *(More coming soon...)*
 
 ---
