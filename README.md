@@ -16,6 +16,7 @@ This repository is a collection of small, simple, and fun Python programs — pe
 - **Youtube Video Donloader** – Script for youtube video download in high quality    
 - **Whole Calendar** – Script for printing whole calendar    
 - **QR Code Generator** – Script to generate QR Code    
+- **Snake game** – Snake game with full resources    
 - *(More coming soon...)*
 
 ---
