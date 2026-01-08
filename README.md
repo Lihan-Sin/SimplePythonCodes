@@ -17,7 +17,7 @@ This repository is a collection of small, simple, and fun Python programs — pe
 - **Whole Calendar** – Script for printing whole calendar    
 - **QR Code Generator** – Script to generate QR Code    
 - **Snake game** – Snake game with full resources    
-- **Tic Tac Toe** – Simple Tic Tac Toe game    
+- **Tic-Tac-Toe** – Tic Tac Toe game with GUI    
 - *(More coming soon...)*
 
 ---
